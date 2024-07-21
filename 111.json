@@ -5,7 +5,7 @@
 {
 "wallpaper":"./t/",
 "logo":"./LOGO2.gif",
-"spider":"http://127.0.0.1:9978/file/tvbox/ou.jar","warningText":"tv提示:
+"spider":"http://127.0.0.1:9978/file/ou.jar","warningText":"tv提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -16,7 +16,7 @@
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢tv榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢tv公告❤更新:6/8❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://127.0.0.1:9978/file/tvbox/ou.jar","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=tv"},
+{"key":"豆瓣1","name":"📢tv公告❤更新:6/8❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://127.0.0.1:9978/file/ou.jar","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=tv"},
 
 
 
@@ -134,8 +134,8 @@
 
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
 
-{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"http://127.0.0.1:9978/file/tvbox/ou.jar","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
+{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"http://127.0.0.1:9978/file/ou.jar",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
+{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"http://127.0.0.1:9978/file/ou.jar","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 
